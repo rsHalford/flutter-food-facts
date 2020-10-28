@@ -40,6 +40,7 @@
 /packages/flutter/coverage/
 version
 analysis_benchmark.json
+google-services.json
 admob_service.dart
 
 # packages file containing multi-root paths
